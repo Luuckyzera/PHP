@@ -1,0 +1,23 @@
+links referencias joabe 
+
+https://blog.algaworks.com/4-conceitos-sobre-rest-que-qualquer-desenvolvedor-precisa-conhecer/#:~:text=REST%20é%20acrônimo%20de%20Representational,1.
+
+https://becode.com.br/o-que-e-api-rest-e-restful/
+
+https://www.youtube.com/watch?v=CDQH4CXZgVY
+
+https://www.youtube.com/watch?v=weQ8ssA6iBU
+
+https://blog.geekhunter.com.br/sua-api-nao-e-restful-entenda-por-que/#:~:text=Sua%20API%20não%20é%20RESTful%3A%20Entenda%20por%20quê&text=REST%20é%20a%20abreviatura%20de,para%20criação%20de%20aplicações%20web.
+
+https://www.google.com/search?client=opera-gx&hs=54M&sxsrf=ALeKk00j61jt5sfYpSUD3cYo9j-3n-5S9A%3A1607120856650&ei=2LfKX6-gJ4Gy5OUPrqKnwAM&q=JSON+&oq=JSON+&gs_lcp=CgZwc3ktYWIQAzIECAAQQzICCAAyAggAMgIIADICCAAyAggAMgUIABCxAzIFCAAQsQMyBQgAELEDMgIIADoECAAQRzoECAAQClDHE1jPF2CnGmgAcAJ4AIABsAGIAZAEkgEDMC4zmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiv7JXer7XtAhUBGbkGHS7RCTgQ4dUDCAw&uact=5
+
+https://www.json.org/json-pt.html
+
+https://www.devmedia.com.br/json-tutorial/25275
+
+https://www.devmedia.com.br/o-que-e-json/23166#:~:text=JSON%20é%20basicamente%20um%20formato,posso%20usar%20com%20JavaScript%20correto%3F
+
+https://www.hostgator.com.br/blog/api-restful/#:~:text=API%20RESTful%20é%20uma%20interface,aos%20jogadores%20do%20PlayStation%204).
+
+https://www.hostgator.com.br/blog/api-restful/#:~:text=API%20RESTful%20é%20uma%20interface,aos%20jogadores%20do%20PlayStation%204).
